@@ -29,7 +29,7 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.doctest',
 #    'sphinx.ext.coverage',
-    'sphinx.ext.pngmath',
+#    'sphinx.ext.pngmath',  # causes readthedocs build to fail
     'sphinx.ext.viewcode',
     'sphinx.ext.autosummary',
 #    'sphinx.ext.inheritance_diagram',
